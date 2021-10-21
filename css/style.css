@@ -1,5 +1,21 @@
 h1 {
-  font-size: 24px;
-  padding-bottom: 8px;
-  border-bottom: 1px solid #ddd;
+  font-family: 'Anton', sans-serif;
+  font-size: 36px;
+  margin: 24px 0 0 24px;
+}
+
+div.intro p {
+  color: rgb(107, 104, 104);
+  margin: 4px 0 0 24px;
+}
+
+div.milkyway img {
+  margin: 20px 0 0 24px;
+}
+
+div.explain p {
+  font-family: Georgia, '游明朝', YuMincho, 'Hiragino Mincho ProN', Meiryo, serif;
+  color: rgb(107, 104, 104);
+  font-size: 36px;
+  margin: 9px 0 0 24px;
 }
