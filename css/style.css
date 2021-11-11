@@ -79,7 +79,8 @@ header li {
 
 .hero img {
   margin: 20px 32px 0 32px;
-  width: 65%;
+  width: 80%;
+  height: 500px;
   object-fit: cover;
 }
 
@@ -96,3 +97,17 @@ header li {
   color: rgb(0, 0, 0);
 }
  
+.self-intro .container{
+  margin-top: 30px;
+  display: flex;
+  align-items: flex-start;
+}
+
+.self-intro h1{
+  margin: 10px 0 0 100px;
+  white-space: nowrap;
+}
+
+.self-intro p{
+  margin: 6px 300px 0 100px;
+}
