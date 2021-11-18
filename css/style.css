@@ -95,6 +95,7 @@ header li {
 .self-intro {
   font-family: 'Anton', sans-serif;
   color: rgb(0, 0, 0);
+  margin-bottom: 30px;
 }
  
 .self-intro .container{
@@ -110,4 +111,15 @@ header li {
 
 .self-intro p{
   margin: 15px 300px 0 100px;
+}
+
+/* footer */
+footer {
+  background: #4c4948;
+  padding: 16px 0;
+  color: #eee;
+}
+
+footer small {
+  font-size: 16px;
 }
